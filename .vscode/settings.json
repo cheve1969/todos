@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "editor.renderWhitespace": true,
+    "guides.normal.color": "rgba(180, 180, 180, 0.7)",
+    "guides.active.color": "rgba(180, 180, 180, 0.7)",
+    "guides.stack.color": "rgba(180, 180, 180, 1.0)",
+    "guides.indent.showFirstIndentGuides": true
+}
